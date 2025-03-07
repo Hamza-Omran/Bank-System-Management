@@ -1,0 +1,957 @@
+﻿  clsAddNewClientScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsAddNewClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(37,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsAddNewClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(432,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsAddNewClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(442,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsAddNewClientScreen.cpp')
+  
+  clsAddNewUserScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsAddNewUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsAddNewUserScreen.cpp')
+  
+  clsBankClient.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBankClient.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBankClient.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBankClient.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBankClient.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBankClient.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsBankClient.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsBankClient.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(37,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsBankClient.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(432,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsBankClient.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(442,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsBankClient.cpp')
+  
+  clsClientListScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsClientListScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsClientListScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsClientListScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsClientListScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsClientListScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsClientListScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsClientListScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(37,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsClientListScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(432,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsClientListScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(442,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsClientListScreen.cpp')
+  
+  clsCurrenciesListScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrenciesListScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrenciesListScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrenciesListScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrenciesListScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrenciesListScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrenciesListScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsCurrenciesListScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsCurrenciesListScreen.cpp')
+  
+  clsCurrency.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrency.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrency.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrency.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrency.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrency.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrency.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsCurrency.cpp')
+  
+  clsCurrencyCalculatorScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrencyCalculatorScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrencyCalculatorScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrencyCalculatorScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrencyCalculatorScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrencyCalculatorScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrencyCalculatorScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsCurrencyCalculatorScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsCurrencyCalculatorScreen.cpp')
+  
+  clsCurrencyExchangeMainScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrencyExchangeMainScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrencyExchangeMainScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrencyExchangeMainScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrencyExchangeMainScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrencyExchangeMainScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsCurrencyExchangeMainScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsCurrencyExchangeMainScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsCurrencyExchangeMainScreen.cpp')
+  
+  clsDate.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDate.cpp')
+  
+  clsDeleteClientScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(37,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(432,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(442,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+  clsDeleteUserScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsDeleteUserScreen.cpp')
+  
+  clsDepositScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDepositScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDepositScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDepositScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDepositScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDepositScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDepositScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsDepositScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(37,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDepositScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(432,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDepositScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(442,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDepositScreen.cpp')
+  
+  clsFindClientScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsFindClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(37,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsFindClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(432,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsFindClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(442,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsFindClientScreen.cpp')
+  
+  clsFindCurrencyScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+  
+  clsFindUserScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsFindUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsFindUserScreen.cpp')
+  
+  clsInputValidate.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+  clsListUsersScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsListUsersScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsListUsersScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsListUsersScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsListUsersScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsListUsersScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsListUsersScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsListUsersScreen.cpp')
+  
+  clsLoginRegisterScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginRegisterScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginRegisterScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginRegisterScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginRegisterScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginRegisterScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginRegisterScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsLoginRegisterScreen.cpp')
+  
+  clsLoginScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(37,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(432,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(442,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244:         with
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244:         [
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244:             T=double
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244:         ]
+  (compiling source file 'clsLoginScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+  clsMainScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(37,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(432,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(442,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244:         with
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244:         [
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244:             T=double
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244:         ]
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+  Generating Code...
+  Compiling...
+  clsManageUsersScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsManageUsersScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsManageUsersScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsManageUsersScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsManageUsersScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsManageUsersScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsManageUsersScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsManageUsersScreen.cpp')
+  
+  clsPeriod.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsPeriod.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsPeriod.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsPeriod.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsPeriod.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsPeriod.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsPeriod.cpp')
+  
+  clsPerson.cpp
+  clsScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsScreen.cpp')
+  
+  clsString.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsString.cpp')
+  
+  clsTotalBalancesScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(37,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(432,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(442,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+  
+  clsTransactionsMenuScreen.cpp
+  clsTransferLogScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferLogScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferLogScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferLogScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferLogScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferLogScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferLogScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsTransferLogScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(37,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTransferLogScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(432,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTransferLogScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(442,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTransferLogScreen.cpp')
+  
+  clsTransferScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsTransferScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsTransferScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(37,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTransferScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(432,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTransferScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(442,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsTransferScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244:         with
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244:         [
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244:             T=double
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244:         ]
+  (compiling source file 'clsTransferScreen.cpp')
+  
+  clsUpdateClientScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsUpdateClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(37,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUpdateClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(432,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUpdateClientScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(442,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUpdateClientScreen.cpp')
+  
+  clsUpdateCurrencyRate.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateCurrencyRate.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateCurrencyRate.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateCurrencyRate.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateCurrencyRate.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateCurrencyRate.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateCurrencyRate.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsUpdateCurrencyRate.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUpdateCurrencyRate.cpp')
+  
+  clsUpdateUserScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUpdateUserScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsUpdateUserScreen.cpp')
+  
+  clsUser.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsUser.cpp')
+  
+  clsUtil.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUtil.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUtil.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUtil.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUtil.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUtil.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUtil.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsUtil.cpp')
+  
+  clsWithdrawScreen.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(37,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(432,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(442,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsWithdrawScreen.cpp')
+  
+  Global.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Global.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Global.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Global.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Global.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Global.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Global.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Global.cpp')
+  
+  Bank Project Using OOP.cpp
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(37,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(432,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(442,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244:         with
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244:         [
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244:             T=double
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsTransferScreen.h(52,58): warning C4244:         ]
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+  Generating Code...
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(387,1): warning C4715: 'clsBankClient::save': not all control paths return a value
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsUser.h(367,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\dell\source\repos\String Library Class\String Library Class\clsBankClient.h(445,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+  String Library Class.vcxproj -> C:\Users\dell\source\repos\String Library Class\x64\Debug\String Library Class.exe
